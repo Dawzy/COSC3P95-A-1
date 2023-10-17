@@ -1,0 +1,44 @@
+Num of testcases: 10
+Max Array Length: 10
+Min Int Value: 1 
+Max Int Value: 10
+Testcase: []
+Sorted: []
+Passed: True
+------------------
+Testcase: [1, 2, 2, 3, 3, 5, 9]
+Sorted: [1, 2, 2, 3, 3, 5, 9]
+Passed: True
+------------------
+Testcase: [1, 2, 3, 3, 3, 3, 9]
+Sorted: [1, 2, 3, 3, 3, 3, 9]
+Passed: True
+------------------
+Testcase: [1, 2, 4, 4, 5, 7, 7, 8, 9]
+Sorted: [1, 2, 4, 4, 5, 7, 7, 8, 9]
+Passed: True
+------------------
+Testcase: [6]
+Sorted: [6]
+Passed: True
+------------------
+Testcase: [1, 2, 3, 3, 5, 7, 7, 8, 9]
+Sorted: [1, 2, 3, 3, 5, 7, 7, 8, 9]
+Passed: True
+------------------
+Testcase: [2, 2, 2, 6, 6, 8, 9]
+Sorted: [2, 2, 2, 6, 6, 8, 9]
+Passed: True
+------------------
+Testcase: [1, 2, 3, 4, 4, 5, 5, 7, 9]
+Sorted: [1, 2, 3, 4, 4, 5, 5, 7, 9]
+Passed: True
+------------------
+Testcase: [2, 3, 4, 4, 5, 6]
+Sorted: [2, 3, 4, 4, 5, 6]
+Passed: True
+------------------
+Testcase: [3, 4, 4, 4, 5, 5, 6, 7, 9]
+Sorted: [3, 4, 4, 4, 5, 5, 6, 7, 9]
+Passed: True
+------------------
